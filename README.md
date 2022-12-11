@@ -1,2 +1,2 @@
-# upload-file
-Simple example of how to load a malicious file with python
+# Upload-file
+Simple example of how to load a malicious file with python-selenium.
